@@ -26,6 +26,20 @@
     },
     "until": {
       "type": "datetime"
+    },
+    "celebrations": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::celebration.celebration"
+    },
+    "media": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
     }
   }
 }
