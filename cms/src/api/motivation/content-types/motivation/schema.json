@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "motivations",
+  "info": {
+    "singularName": "motivation",
+    "pluralName": "motivations",
+    "displayName": "Motivation",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
