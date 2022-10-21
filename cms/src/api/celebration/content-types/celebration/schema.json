@@ -27,6 +27,9 @@
     "until": {
       "type": "datetime"
     },
+    "created_by_id": {
+      "type": "text"
+    },
     "celebrations": {
       "type": "relation",
       "relation": "oneToMany",
@@ -40,6 +43,9 @@
         "images",
         "videos"
       ]
+    },
+    "small_description": {
+      "type": "string"
     }
   }
 }

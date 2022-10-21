@@ -2,8 +2,8 @@
   "kind": "collectionType",
   "collectionName": "up_users",
   "info": {
-    "name": "user",
-    "description": "",
+    "name": "Avatar",
+    "description": "Create an avatar...",
     "singularName": "user",
     "pluralName": "users",
     "displayName": "User"
