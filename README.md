@@ -1,7 +1,7 @@
 # columpio
 Columpio pantallas adobado con react y base de datos sqlite adhoc
 
-Este proyecto solo sirve para que la genet comparta fechas a celebrar con el equipo de trabajo en la pantalla general que hemos okupado ^^
+Este proyecto solo sirve para que la gente comparta fechas a celebrar con el equipo de trabajo en la pantalla general que hemos okupado ^^
 
 El repositorio consiste en:
 
